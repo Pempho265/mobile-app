@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EcoHerb</string>
+    <string name="my_logo_decripition">shows logo when you open the app</string>
+    <string name="logo">logo image</string>
+    <string name="bottom_image">bottom image</string>
+    <string name="button">button</string>
+    <string name="scroll">scroll</string>
+    <string name="welcome_text1">Discover Nature\'s Hidden Gems</string>
+    <string name="welcome_text2">Application that deals with traditional medicinal plants and remedies from Malawi</string>
+    <string name="welcome_button_next">Next</string>
+    <string name="welcome_text3">Explore our curated collection to learn about traditional healing practices, discover preparation methods and find sustainable sources for these invaluable treasure of nature</string>
+    <string name="welcome_button_back">Back</string>
+</resources>
